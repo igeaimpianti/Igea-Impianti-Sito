@@ -1,0 +1,3 @@
+IGEA-SITO-GITHUB-PAGES-20261110
+Repository: igeaimpianti/Igea-Impianti-Sito
+Questo file appartiene esclusivamente al sito pubblico.
